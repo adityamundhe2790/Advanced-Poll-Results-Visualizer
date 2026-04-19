@@ -36,23 +36,25 @@ It demonstrates a complete **data pipeline**:
 - Compare behavior across **age groups and gender**
 
 ---
-
 ## 🏗️ Project Structure
+
+<pre>
 Poll-Results-Visualizer/
 │
 ├── data/
-│ └── cleaned_poll_data.csv
+│   └── cleaned_poll_data.csv
 │
 ├── src/
-│ ├── app.py # Streamlit dashboard
-│ ├── data_generator.py # Raw data generation
-│ ├── preprocessing.py # Data cleaning & transformation
-│ ├── nlp.py # Sentiment analysis
-│ └── analysis.py # Data insights
+│   ├── app.py               # Streamlit dashboard
+│   ├── data_generator.py    # Raw data generation
+│   ├── preprocessing.py     # Data cleaning & transformation
+│   ├── nlp.py               # Sentiment analysis
+│   └── analysis.py          # Data insights
 │
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+</pre>
 
 ---
 
