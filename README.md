@@ -37,7 +37,7 @@ It demonstrates a complete **data pipeline**:
 
 ---
 
-## Project Structure
+## 🏗️ Project Structure
 Poll-Results-Visualizer/
 │
 ├── data/
