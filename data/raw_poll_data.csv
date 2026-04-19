@@ -1,0 +1,301 @@
+Age,Gender,Tool,Rating,Feedback
+35-44,Male,Python,2,Amazing experience
+18-24,Female,Python,2,Loved it
+35-44,Male,Python,3,Not good
+35-44,Male,Power BI,5,Amazing experience
+18-24,Female,Power BI,5,Could be better
+18-24,Male,Python,1,Loved it
+35-44,Female,R,1,Great tool
+25-34,Male,Power BI,2,Great tool
+35-44,Female,Python,1,Could be better
+35-44,Male,Python,3,Could be better
+35-44,Female,R,5,Not good
+35-44,Female,Excel,2,Great tool
+18-24,Female,Power BI,1,Loved it
+35-44,Female,R,3,Amazing experience
+25-34,Female,Python,3,Loved it
+18-24,Male,Python,1,Very useful
+25-34,Male,R,5,Very useful
+25-34,Male,Power BI,1,Could be better
+25-34,Female,Excel,2,Not good
+25-34,Male,Excel,1,Very useful
+18-24,Female,Python,3,Great tool
+18-24,Female,Power BI,1,Loved it
+25-34,Male,Excel,5,Loved it
+25-34,Male,Power BI,4,Could be better
+18-24,Female,Power BI,1,Amazing experience
+18-24,Male,Python,5,Could be better
+18-24,Female,Excel,5,Amazing experience
+35-44,Female,R,3,Could be better
+35-44,Female,Python,5,Could be better
+35-44,Female,Excel,5,Could be better
+25-34,Female,Excel,5,Amazing experience
+35-44,Male,Excel,5,Amazing experience
+25-34,Male,Excel,2,Could be better
+25-34,Female,Excel,2,Very useful
+35-44,Female,Power BI,3,Not good
+25-34,Male,Python,1,Not good
+35-44,Male,Power BI,5,Not good
+35-44,Female,R,1,Amazing experience
+18-24,Male,Excel,1,Amazing experience
+35-44,Female,Python,3,Very useful
+18-24,Male,Excel,5,Not good
+35-44,Female,Python,5,Not good
+35-44,Male,Power BI,4,Could be better
+18-24,Female,Python,1,Amazing experience
+18-24,Male,R,1,Not good
+35-44,Male,R,2,Loved it
+25-34,Female,Python,4,Very useful
+18-24,Male,Python,2,Loved it
+25-34,Female,Python,2,Loved it
+25-34,Male,Python,2,Very useful
+25-34,Female,R,3,Loved it
+18-24,Male,Excel,3,Not good
+25-34,Female,Python,2,Amazing experience
+18-24,Male,Python,4,Very useful
+25-34,Female,R,1,Could be better
+35-44,Male,R,4,Loved it
+35-44,Female,Power BI,5,Very useful
+18-24,Female,Python,3,Great tool
+35-44,Female,Power BI,1,Great tool
+35-44,Male,R,1,Amazing experience
+25-34,Female,R,5,Not good
+18-24,Male,Excel,5,Amazing experience
+25-34,Female,Python,2,Amazing experience
+25-34,Male,Power BI,3,Amazing experience
+25-34,Female,R,3,Amazing experience
+25-34,Male,R,4,Could be better
+25-34,Male,Power BI,2,Could be better
+25-34,Female,Excel,2,Very useful
+25-34,Male,R,2,Great tool
+18-24,Male,Python,2,Amazing experience
+35-44,Female,R,3,Very useful
+25-34,Male,Python,3,Great tool
+25-34,Male,Power BI,2,Loved it
+25-34,Male,Python,4,Not good
+25-34,Female,Power BI,1,Could be better
+25-34,Male,Python,1,Loved it
+25-34,Female,Power BI,4,Great tool
+35-44,Male,Python,2,Loved it
+35-44,Male,Excel,3,Not good
+25-34,Male,Python,1,Great tool
+35-44,Female,Python,5,Loved it
+18-24,Male,Excel,5,Could be better
+25-34,Male,R,4,Could be better
+18-24,Female,R,2,Very useful
+18-24,Male,Python,1,Loved it
+25-34,Female,Excel,2,Amazing experience
+35-44,Female,Python,1,Loved it
+18-24,Male,Power BI,4,Great tool
+25-34,Female,Power BI,4,Great tool
+18-24,Male,Python,5,Loved it
+18-24,Female,R,2,Not good
+18-24,Female,R,5,Could be better
+18-24,Male,Python,2,Great tool
+35-44,Female,Python,5,Could be better
+18-24,Female,Power BI,3,Great tool
+18-24,Female,R,3,Very useful
+18-24,Female,Python,3,Amazing experience
+35-44,Female,Power BI,3,Great tool
+18-24,Male,R,1,Could be better
+18-24,Female,Excel,3,Very useful
+35-44,Male,Power BI,4,Great tool
+35-44,Female,R,4,Not good
+35-44,Male,R,1,Amazing experience
+18-24,Male,Power BI,3,Great tool
+35-44,Female,Excel,3,Very useful
+35-44,Female,Power BI,3,Not good
+18-24,Female,R,5,Loved it
+35-44,Male,Python,2,Very useful
+18-24,Female,Python,5,Very useful
+25-34,Male,Power BI,2,Not good
+35-44,Male,R,3,Very useful
+25-34,Male,Python,3,Not good
+18-24,Female,R,5,Great tool
+35-44,Female,Power BI,5,Not good
+18-24,Male,Python,2,Not good
+25-34,Male,R,4,Amazing experience
+18-24,Female,Python,2,Not good
+35-44,Male,Power BI,5,Not good
+35-44,Female,R,5,Loved it
+25-34,Male,Python,1,Great tool
+18-24,Female,Power BI,5,Amazing experience
+35-44,Male,Python,1,Loved it
+25-34,Female,Python,4,Could be better
+35-44,Male,Excel,2,Great tool
+35-44,Female,Excel,2,Great tool
+18-24,Female,Power BI,1,Could be better
+35-44,Male,Excel,2,Not good
+18-24,Male,Power BI,5,Loved it
+35-44,Female,Excel,3,Very useful
+25-34,Male,Python,1,Amazing experience
+35-44,Female,Power BI,2,Very useful
+18-24,Male,Power BI,1,Could be better
+18-24,Female,Python,1,Great tool
+25-34,Female,Power BI,3,Great tool
+35-44,Female,Power BI,5,Amazing experience
+35-44,Female,Excel,1,Great tool
+25-34,Female,Power BI,2,Great tool
+35-44,Female,R,4,Amazing experience
+35-44,Male,Python,1,Loved it
+18-24,Male,Excel,1,Loved it
+35-44,Male,Excel,3,Amazing experience
+35-44,Female,R,5,Could be better
+25-34,Female,Python,4,Great tool
+25-34,Female,Python,2,Great tool
+18-24,Female,Excel,4,Could be better
+35-44,Male,Power BI,2,Loved it
+35-44,Male,Excel,5,Not good
+35-44,Female,Python,2,Not good
+18-24,Male,R,3,Not good
+18-24,Male,Excel,3,Loved it
+25-34,Female,Python,3,Loved it
+18-24,Male,Excel,3,Could be better
+35-44,Female,Power BI,4,Great tool
+35-44,Male,Excel,5,Could be better
+18-24,Female,Excel,2,Could be better
+35-44,Female,Python,2,Loved it
+35-44,Female,Python,3,Not good
+18-24,Female,Python,3,Very useful
+18-24,Male,Excel,1,Great tool
+35-44,Female,Power BI,5,Loved it
+35-44,Female,R,4,Not good
+35-44,Female,R,2,Very useful
+25-34,Male,Python,1,Very useful
+25-34,Female,Python,1,Loved it
+25-34,Male,Excel,2,Amazing experience
+18-24,Female,R,4,Great tool
+25-34,Male,Python,1,Very useful
+18-24,Male,Power BI,1,Loved it
+18-24,Female,Power BI,5,Loved it
+25-34,Male,Python,4,Not good
+25-34,Female,Python,1,Amazing experience
+25-34,Female,R,4,Great tool
+35-44,Female,R,2,Could be better
+25-34,Male,Excel,3,Not good
+35-44,Male,R,1,Very useful
+18-24,Female,Power BI,5,Very useful
+35-44,Female,Power BI,2,Not good
+25-34,Male,Python,4,Loved it
+18-24,Female,R,2,Very useful
+18-24,Female,Excel,1,Amazing experience
+18-24,Female,Power BI,4,Great tool
+35-44,Male,Power BI,3,Amazing experience
+25-34,Male,Excel,2,Very useful
+18-24,Male,Excel,1,Could be better
+18-24,Female,Power BI,5,Great tool
+18-24,Female,Power BI,4,Great tool
+35-44,Female,Excel,2,Not good
+35-44,Male,Power BI,2,Not good
+25-34,Female,Python,3,Could be better
+35-44,Female,Python,3,Loved it
+18-24,Female,Excel,5,Great tool
+25-34,Female,R,5,Could be better
+18-24,Male,Excel,1,Not good
+18-24,Male,Excel,1,Not good
+35-44,Female,R,5,Great tool
+25-34,Male,R,5,Amazing experience
+35-44,Male,R,4,Very useful
+35-44,Female,Python,3,Not good
+25-34,Female,Power BI,1,Loved it
+18-24,Male,Python,3,Loved it
+18-24,Female,Power BI,3,Not good
+25-34,Male,Python,5,Amazing experience
+18-24,Female,Power BI,4,Amazing experience
+25-34,Male,Python,2,Could be better
+25-34,Female,R,4,Loved it
+35-44,Male,Excel,4,Could be better
+25-34,Male,Python,3,Loved it
+35-44,Male,Power BI,4,Very useful
+18-24,Female,R,1,Very useful
+18-24,Male,Python,3,Great tool
+18-24,Male,Python,1,Could be better
+18-24,Female,R,2,Not good
+35-44,Female,Python,3,Could be better
+18-24,Male,Excel,2,Not good
+25-34,Male,Python,3,Amazing experience
+25-34,Female,Excel,5,Could be better
+25-34,Female,Excel,4,Amazing experience
+35-44,Female,R,5,Very useful
+18-24,Female,Python,2,Very useful
+18-24,Female,R,4,Great tool
+18-24,Male,Python,3,Could be better
+35-44,Female,Python,4,Amazing experience
+25-34,Male,Power BI,1,Not good
+25-34,Male,Python,4,Very useful
+18-24,Male,R,1,Very useful
+25-34,Female,Excel,4,Not good
+25-34,Male,Python,1,Amazing experience
+35-44,Male,Power BI,2,Amazing experience
+35-44,Female,R,5,Could be better
+35-44,Male,Python,3,Could be better
+35-44,Male,R,4,Loved it
+18-24,Female,Power BI,5,Loved it
+35-44,Male,Power BI,3,Great tool
+25-34,Male,R,3,Very useful
+18-24,Male,Python,1,Could be better
+25-34,Female,Excel,2,Amazing experience
+25-34,Female,Power BI,2,Not good
+25-34,Female,Python,5,Amazing experience
+35-44,Male,Python,2,Very useful
+35-44,Male,Excel,4,Loved it
+18-24,Female,Power BI,2,Amazing experience
+18-24,Male,Power BI,5,Great tool
+35-44,Male,Python,2,Very useful
+25-34,Female,Python,4,Loved it
+18-24,Female,Excel,1,Not good
+35-44,Male,Excel,5,Loved it
+35-44,Male,Power BI,1,Great tool
+35-44,Male,R,1,Very useful
+25-34,Female,Power BI,1,Not good
+35-44,Female,Python,3,Great tool
+35-44,Female,Power BI,3,Loved it
+35-44,Female,R,1,Great tool
+35-44,Male,Excel,5,Very useful
+18-24,Female,R,4,Could be better
+18-24,Female,R,4,Great tool
+35-44,Female,R,2,Great tool
+25-34,Female,Excel,5,Loved it
+18-24,Female,R,3,Loved it
+35-44,Male,R,1,Not good
+18-24,Male,R,2,Loved it
+18-24,Female,Python,4,Amazing experience
+25-34,Male,R,3,Very useful
+35-44,Female,Excel,3,Very useful
+35-44,Female,R,1,Could be better
+25-34,Male,R,4,Could be better
+25-34,Male,Excel,5,Very useful
+35-44,Female,R,3,Could be better
+35-44,Female,Excel,1,Not good
+25-34,Female,R,5,Loved it
+18-24,Male,Excel,4,Very useful
+18-24,Female,R,3,Could be better
+25-34,Female,R,5,Very useful
+18-24,Female,Python,5,Amazing experience
+25-34,Male,Python,5,Great tool
+18-24,Female,R,3,Loved it
+18-24,Female,R,3,Very useful
+35-44,Male,Power BI,2,Great tool
+35-44,Female,Excel,4,Could be better
+18-24,Female,Power BI,1,Great tool
+18-24,Male,Python,5,Loved it
+35-44,Female,Python,2,Very useful
+35-44,Male,Python,1,Amazing experience
+35-44,Male,Python,2,Could be better
+25-34,Female,R,3,Very useful
+18-24,Female,Python,5,Loved it
+35-44,Female,R,1,Could be better
+18-24,Female,R,1,Not good
+25-34,Male,Python,1,Great tool
+25-34,Female,Python,1,Loved it
+35-44,Male,Excel,1,Not good
+25-34,Female,Power BI,2,Very useful
+18-24,Female,Python,5,Amazing experience
+35-44,Female,Excel,3,Could be better
+18-24,Male,Excel,3,Great tool
+18-24,Female,Power BI,3,Could be better
+25-34,Female,R,3,Very useful
+25-34,Female,Python,2,Could be better
+25-34,Female,Power BI,4,Great tool
+25-34,Male,Python,5,Very useful
+25-34,Female,Excel,1,Could be better
